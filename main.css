@@ -18,13 +18,7 @@ a{
     box-shadow: 0 0 10px #ddd;
     height: 60px;
 }
-.header .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    position: relative;
-}
+
 .header .logo {
     color: var(--main-color);
     font-size: 26px;
