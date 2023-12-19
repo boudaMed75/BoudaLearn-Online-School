@@ -19,16 +19,6 @@ a{
     height: 60px;
 }
 
-.header .logo {
-    color: var(--main-color);
-    font-size: 26px;
-    font-weight: bold;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-  
 .header .main-nav {
     display: flex;
 }
